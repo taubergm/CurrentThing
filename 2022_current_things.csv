@@ -1,0 +1,297 @@
+date,1,2,3,4,5,meta
+2022-03-01,biden,Ukraine,putin,russia,president,Ukraine
+2022-03-02,Ukraine,russia,russian,war,biden,Ukraine
+2022-03-03,Ukraine,putin,russia,russian,war,Ukraine
+2022-03-04,Ukraine,russia,war,russian,ukrainian,Ukraine
+2022-03-05,Ukraine,russia,putin,russian,war,Ukraine
+2022-03-06,Ukraine,russian,russia,putin,war,Ukraine
+2022-03-07,Ukraine,russia,russian,war,putin,Ukraine
+2022-03-08,Ukraine,russian,russia,putin,war,Ukraine
+2022-03-09,Ukraine,russian,russia,putin,war,Ukraine
+2022-03-10,Ukraine,russian,war,biden,russia,Ukraine
+2022-03-11,Ukraine,russia,russian,war,biden,Ukraine
+2022-03-12,Ukraine,russia,war,russian,2020,Ukraine
+2022-03-13,Ukraine,war,russia,russian,putin,Ukraine
+2022-03-14,Ukraine,russia,war,russian,putin,Ukraine
+2022-03-15,Ukraine,biden,war,russia,fox,Ukraine
+2022-03-16,Ukraine,biden,president,russian,war,Ukraine
+2022-03-17,Ukraine,biden,russia,russian,war,Ukraine
+2022-03-18,Ukraine,biden,russia,war,putin,Ukraine
+2022-03-19,Ukraine,russian,russia,putin,war,Ukraine
+2022-03-20,Ukraine,war,russia,putin,ukrainian,Ukraine
+2022-03-21,jackson,Ukraine,judge,russian,brown,Ukraine
+2022-03-22,jackson,court,judge,russian,Ukraine,US Politics
+2022-03-23,Ukraine,russian,russia,war,biden,Ukraine
+2022-03-24,Ukraine,biden,russia,president,russian,Ukraine
+2022-03-25,Ukraine,thomas,biden,war,russian,Ukraine
+2022-03-26,biden,putin,president,Ukraine,russia,Ukraine
+2022-03-27,oscars,smith,oscar,Ukraine,russian,Ukraine
+2022-03-28,biden,trump,president,russia,Ukraine,Ukraine
+2022-03-29,trump,house,Ukraine,russia,biden,Ukraine
+2022-03-30,biden,russian,trump,Ukraine,president,Ukraine
+2022-03-31,Ukraine,russia,war,biden,house,Ukraine
+2022-04-01,Ukraine,war,amazon,trump,house,Ukraine
+2022-04-02,Ukraine,russian,trump,war,russia,Ukraine
+2022-04-03,Ukraine,war,russia,putin,russian,Ukraine
+2022-04-04,Ukraine,war,jackson,biden,bucha,Ukraine
+2022-04-05,trump,Ukraine,russia,russian,house,Ukraine
+2022-04-06,russia,russian,Ukraine,biden,putin,Ukraine
+2022-04-07,jackson,court,Ukraine,supreme,senate,US Politics
+2022-04-08,biden,Ukraine,jackson,nytimes,russia,Ukraine
+2022-04-09,Ukraine,war,trump,russian,putin,Ukraine
+2022-04-10,Ukraine,war,russian,russia,covid,Ukraine
+2022-04-11,Ukraine,russian,biden,war,putin,Ukraine
+2022-04-12,Ukraine,inflation,biden,war,russia,Ukraine
+2022-04-13,Ukraine,biden,loss,trump,president,Ukraine
+2022-04-14,twitter,musk,Ukraine,russian,russia,Twitter / Musk
+2022-04-15,Ukraine,trump,biden,russian,war,Ukraine
+2022-04-16,russian,russia,Ukraine,war,trump,Ukraine
+2022-04-17,easter,Ukraine,war,biden,russia,Ukraine
+2022-04-18,Ukraine,mask,trump,biden,judge,Ukraine
+2022-04-19,biden,mask,Ukraine,trump,russia,US Politics
+2022-04-20,Ukraine,trump,russian,biden,russia,Ukraine
+2022-04-21,biden,trump,Ukraine,cnn,president,US Politics
+2022-04-22,trump,mccarthy,Ukraine,house,gop,Ukraine
+2022-04-23,Ukraine,trump,war,russia,russian,Ukraine
+2022-04-24,Ukraine,macron,trump,biden,putin,Ukraine
+2022-04-25,twitter,trump,musk,elon,biden,Twitter / Musk
+2022-04-26,twitter,musk,biden,Ukraine,covid,Twitter / Musk
+2022-04-27,twitter,trump,biden,house,musk,Twitter / Musk
+2022-04-28,Ukraine,biden,trump,twitter,russia,Ukraine
+2022-04-29,trump,Ukraine,biden,twitter,house,Ukraine
+2022-04-30,biden,white,trump,whcd,carlson,US Politics
+2022-05-01,Ukraine,trump,biden,war,president,Ukraine
+2022-05-02,court,roe,Abortion,trump,Ukraine,Abortion
+2022-05-03,Abortion,court,roe,draft,supreme,Abortion
+2022-05-04,Abortion,roe,court,trump,biden,Abortion
+2022-05-05,Abortion,roe,court,trump,white,Abortion
+2022-05-06,Abortion,trump,roe,biden,Ukraine,Abortion
+2022-05-07,Abortion,roe,Ukraine,women,war,Abortion
+2022-05-08,Ukraine,Abortion,mother,war,biden,Abortion
+2022-05-09,Abortion,Ukraine,biden,war,putin,Abortion
+2022-05-10,trump,Abortion,biden,Ukraine,house,Abortion
+2022-05-11,Abortion,vote,trump,senate,inflation,Abortion
+2022-05-12,Ukraine,trump,house,biden,senate,Ukraine
+2022-05-13,twitter,house,trump,biden,Ukraine,Twitter / Musk
+2022-05-14,trump,white,buffalo,Ukraine,Abortion,Shooting
+2022-05-15,buffalo,white,Shooting,Ukraine,theory,Shooting
+2022-05-16,trump,buffalo,white,theory,gop,Shooting
+2022-05-17,trump,biden,primary,gop,buffalo,US Politics
+2022-05-18,trump,biden,gop,state,vote,US Politics
+2022-05-19,biden,trump,house,Ukraine,gop,US Politics
+2022-05-20,trump,biden,Ukraine,war,white,US Politics
+2022-05-21,biden,trump,president,black,korea,US Politics
+2022-05-22,biden,trump,president,white,election,US Politics
+2022-05-23,biden,trump,Ukraine,taiwan,china,US Politics
+2022-05-24,school,texas,Shooting,biden,gun,Shooting
+2022-05-25,gun,school,guns,trump,Shooting,Shooting
+2022-05-26,school,gun,guns,uvalde,police,Shooting
+2022-05-27,gun,police,school,uvalde,texas,Shooting
+2022-05-28,gun,trump,uvalde,nra,school,Shooting
+2022-05-29,gun,uvalde,guns,mass,Shooting,Shooting
+2022-05-30,died,serving,afghanistan,army,battalion,Shooting
+2022-05-31,biden,trump,gun,house,white,Shooting
+2022-06-01,biden,Ukraine,trump,gun,depp,Shooting
+2022-06-02,biden,gun,house,president,trump,Shooting
+2022-06-03,navarro,biden,trump,gun,house,Shooting
+2022-06-04,trump,biden,abuse,white,case,Shooting
+2022-06-05,gun,trump,biden,Ukraine,covid,Shooting
+2022-06-06,gun,johnson,biden,vote,trump,Shooting
+2022-06-07,gun,trump,biden,house,mcconaughey,Shooting
+2022-06-08,trump,house,gun,biden,crime,Shooting
+2022-06-09,trump,jan,committee,hearing,capitol,Jan 6
+2022-06-10,trump,jan,committee,hearing,president,Jan 6
+2022-06-11,trump,biden,president,jan,house,Jan 6
+2022-06-12,gun,trump,deal,biden,bill,Shooting
+2022-06-13,trump,election,committee,barr,bill,Jan 6
+2022-06-14,trump,biden,election,house,gop,US Politics
+2022-06-15,trump,biden,inflation,fed,election,US Politics
+2022-06-16,trump,pence,eastman,jan,committee,Jan 6
+2022-06-17,trump,jan,biden,pence,president,Jan 6
+2022-06-18,trump,biden,gop,mark,alice_radley,US Politics
+2022-06-19,father,trump,dad,president,biden,US Politics
+2022-06-20,trump,biden,election,state,gop,US Politics
+2022-06-21,trump,election,bowers,state,committee,US Politics
+2022-06-22,trump,biden,gas,bill,gop,US Politics
+2022-06-23,trump,gun,court,clark,election,US Politics
+2022-06-24,Abortion,roe,court,supreme,decision,Abortion
+2022-06-25,Abortion,court,roe,supreme,women,Abortion
+2022-06-26,Abortion,roe,court,rights,state,Abortion
+2022-06-27,Abortion,court,roe,state,women,Abortion
+2022-06-28,trump,hutchinson,capitol,jan,meadows,Jan 6
+2022-06-29,trump,Abortion,court,biden,state,Abortion
+2022-06-30,court,biden,supreme,trump,state,Abortion
+2022-07-01,trump,biden,court,Abortion,state,Abortion
+2022-07-02,Abortion,trump,state,court,women,Abortion
+2022-07-03,trump,Abortion,gyamey,state,women,Abortion
+2022-07-04,july,america,park,parade,highland,Shooting
+2022-07-05,park,biden,highland,trump,Shooting,Shooting
+2022-07-06,biden,johnson,trump,boris,state,UK Politics
+2022-07-07,johnson,boris,trump,biden,minister,UK Politics
+2022-07-08,abe,biden,Abortion,court,twitter,Abortion
+2022-07-09,trump,biden,president,Abortion,twitter,US Politics
+2022-07-10,trump,biden,Abortion,committee,bannon,US Politics
+2022-07-11,biden,trump,bannon,president,house,US Politics
+2022-07-12,trump,jan,committee,biden,president,Jan 6
+2022-07-13,inflation,biden,trump,Abortion,house,Economy
+2022-07-14,trump,biden,Abortion,president,10,US Politics
+2022-07-15,biden,saudi,manchin,president,trump,US Politics
+2022-07-16,Abortion,trump,biden,women,president,Abortion
+2022-07-17,biden,uvalde,trump,school,Abortion,Shooting
+2022-07-18,trump,biden,house,state,washingtonpost,US Politics
+2022-07-19,trump,house,biden,bill,marriage,US Politics
+2022-07-20,trump,biden,marriage,bill,house,US Politics
+2022-07-21,trump,president,biden,house,jan,US Politics
+2022-07-22,trump,bannon,biden,jan,president,US Politics
+2022-07-23,trump,biden,state,president,men,US Politics
+2022-07-24,trump,white,biden,state,women,US Politics
+2022-07-25,trump,biden,men,president,sex,US Politics
+2022-07-26,trump,men,biden,sex,president,US Politics
+2022-07-27,biden,trump,manchin,bill,house,US Politics
+2022-07-28,biden,bill,house,trump,recession,Economy
+2022-07-29,house,trump,biden,inflation,bill,Economy
+2022-07-30,trump,biden,covid,president,positive,US Politics
+2022-07-31,bill,trump,russell,manchin,biden,Economy
+2022-08-01,trump,biden,zawahiri,house,bill,Economy
+2022-08-02,taiwan,pelosi,Abortion,trump,biden,Pelosi
+2022-08-03,trump,Abortion,jones,election,taiwan,Abortion
+2022-08-04,trump,bill,biden,senate,sinema,Economy
+2022-08-05,jobs,jones,bill,biden,china,Economy
+2022-08-06,bill,vote,senate,inflation,reconciliation,Economy
+2022-08-07,bill,senate,vote,tax,amendment,Economy
+2022-08-08,trump,fbi,lago,mar,president,Fbi Trump Raid
+2022-08-09,trump,fbi,search,mar,lago,Fbi Trump Raid
+2022-08-10,trump,fbi,inflation,biden,president,Fbi Trump Raid
+2022-08-11,trump,fbi,search,warrant,garland,Fbi Trump Raid
+2022-08-12,trump,documents,fbi,search,house,Fbi Trump Raid
+2022-08-13,trump,documents,fbi,ha,rushdie,Fbi Trump Raid
+2022-08-14,trump,search,fbi,documents,violence,Fbi Trump Raid
+2022-08-15,trump,gop,fbi,election,president,Fbi Trump Raid
+2022-08-16,trump,biden,cheney,president,gop,US Politics
+2022-08-17,trump,cheney,gop,president,election,US Politics
+2022-08-18,trump,media,cnn,affidavit,judge,US Politics
+2022-08-19,trump,state,gop,biden,Ukraine,US Politics
+2022-08-20,trump,biden,party,gop,media,US Politics
+2022-08-21,trump,biden,president,media,Ukraine,US Politics
+2022-08-22,trump,documents,russia,election,president,US Politics
+2022-08-23,trump,twitter,biden,house,primary,Twitter / Musk
+2022-08-24,student,biden,trump,debt,loan,Student Debt
+2022-08-25,biden,trump,student,debt,covid,Student Debt
+2022-08-26,trump,affidavit,documents,biden,lago,Fbi Trump Raid
+2022-08-27,trump,debt,student,documents,biden,Student Debt
+2022-08-28,trump,biden,debt,house,white,Student Debt
+2022-08-29,trump,biden,election,president,student,Student Debt
+2022-08-30,trump,biden,gorbachev,president,doj,Fbi Trump Raid
+2022-08-31,trump,documents,doj,classified,biden,Fbi Trump Raid
+2022-09-01,trump,biden,president,school,republicans,US Politics
+2022-09-02,trump,biden,speech,democracy,president,US Politics
+2022-09-03,trump,biden,state,speech,president,US Politics
+2022-09-04,trump,biden,election,president,democracy,US Politics
+2022-09-05,trump,judge,biden,labor,truss,Abortion
+2022-09-06,trump,biden,house,election,state,US Politics
+2022-09-07,trump,obama,house,biden,white,US Politics
+2022-09-08,queen,elizabeth,trump,ii,biden,UK Politics
+2022-09-09,trump,queen,biden,king,state,UK Politics
+2022-09-10,Ukraine,russian,queen,russia,king,Ukraine
+2022-09-11,11,state,Ukraine,russian,queen,Ukraine
+2022-09-12,trump,biden,Ukraine,russian,president,Ukraine
+2022-09-13,inflation,trump,Abortion,twitter,biden,Economy
+2022-09-14,trump,ap,biden,Abortion,house,Abortion
+2022-09-15,trump,biden,migrants,desantis,president,US Politics
+2022-09-16,trump,desantis,migrants,biden,vineyard,US Politics
+2022-09-17,trump,migrants,state,men,desantis,US Politics
+2022-09-18,biden,trump,queen,ap,veterans,US Politics
+2022-09-19,trump,queen,biden,house,funeral,UK Politics
+2022-09-20,trump,biden,house,president,russia,US Politics
+2022-09-21,trump,putin,russia,biden,president,US Politics
+2022-09-22,trump,jones,russia,house,putin,US Politics
+2022-09-23,trump,house,tax,russia,Ukraine,US Politics
+2022-09-24,trump,women,state,iran,party,US Politics
+2022-09-25,trump,Ukraine,biden,women,russia,US Politics
+2022-09-26,trump,state,biden,white,president,US Politics
+2022-09-27,bill,trump,biden,senate,Ukraine,Economy
+2022-09-28,trump,hurricane,ian,biden,florida,US Politics
+2022-09-29,trump,biden,hurricane,florida,ian,US Politics
+2022-09-30,putin,russia,Ukraine,biden,trump,Russia
+2022-10-01,trump,putin,russia,Ukraine,biden,Russia
+2022-10-02,trump,president,putin,russian,election,Russia
+2022-10-03,trump,election,court,president,biden,US Politics
+2022-10-04,trump,walker,twitter,court,Abortion,US Politics
+2022-10-05,biden,trump,walker,gop,russia,US Politics
+2022-10-06,biden,trump,marijuana,federal,president,US Politics
+2022-10-07,biden,trump,walker,nuclear,state,US Politics
+2022-10-08,trump,bridge,Ukraine,russia,putin,US Politics
+2022-10-09,trump,war,spawnofkahn,russia,state,Ukraine
+2022-10-10,Ukraine,russia,trump,biden,war,Ukraine
+2022-10-11,biden,trump,Ukraine,putin,president,US Politics
+2022-10-12,trump,biden,jones,russia,alex,US Politics
+2022-10-13,trump,committee,jan,election,president,Jan 6
+2022-10-14,trump,truss,walker,election,president,UK Politics
+2022-10-15,trump,party,biden,covid,state,China
+2022-10-16,trump,election,american,truss,biden,US Politics
+2022-10-17,trump,biden,truss,election,president,US Politics
+2022-10-18,trump,biden,state,house,gop,US Politics
+2022-10-19,trump,biden,Ukraine,pence,state,US Politics
+2022-10-20,truss,liz,biden,trump,prime,UK Politics
+2022-10-21,trump,biden,bannon,election,gop,US Politics
+2022-10-22,party,xi,voters,white,state,China
+2022-10-23,trump,party,election,voters,johnson,China
+2022-10-24,trump,sunak,biden,state,election,UK Politics
+2022-10-25,fetterman,trump,election,biden,Ukraine,US Politics
+2022-10-26,trump,election,fetterman,debate,state,US Politics
+2022-10-27,twitter,trump,biden,election,putin,Twitter / Musk
+2022-10-28,pelosi,twitter,paul,trump,musk,Pelosi
+2022-10-29,pelosi,attack,election,obama,twitter,Pelosi
+2022-10-30,twitter,musk,lula,election,bolsonaro,Twitter / Musk
+2022-10-31,twitter,pelosi,halloween,action,trump,Twitter / Musk
+2022-11-01,twitter,election,trump,pelosi,biden,Twitter / Musk
+2022-11-02,biden,election,trump,twitter,democracy,US Politics
+2022-11-03,twitter,election,trump,biden,democracy,Twitter / Musk
+2022-11-04,twitter,trump,election,musk,gop,Twitter / Musk
+2022-11-05,twitter,trump,biden,election,president,Twitter / Musk
+2022-11-06,twitter,election,trump,gop,desantis,Twitter / Musk
+2022-11-07,election,trump,twitter,gop,vote,US Politics
+2022-11-08,election,house,wins,trump,ap,US Politics
+2022-11-09,trump,election,biden,gop,house,US Politics
+2022-11-10,trump,twitter,house,election,gop,Twitter / Musk
+2022-11-11,trump,twitter,election,gop,house,Twitter / Musk
+2022-11-12,senate,election,trump,democrats,gop,US Politics
+2022-11-13,trump,election,gop,biden,house,US Politics
+2022-11-14,trump,gop,biden,election,house,US Politics
+2022-11-15,trump,president,biden,gop,house,US Politics
+2022-11-16,trump,gop,house,republicans,senate,US Politics
+2022-11-17,twitter,pelosi,house,trump,speaker,Pelosi
+2022-11-18,twitter,trump,special,counsel,house,US Politics
+2022-11-19,trump,twitter,musk,biden,president,Twitter / Musk
+2022-11-20,trump,twitter,colorado,president,biden,Twitter / Musk
+2022-11-21,trump,twitter,followed,biden,media,Twitter / Musk
+2022-11-22,trump,twitter,house,court,biden,Twitter / Musk
+2022-11-23,trump,twitter,thanksgiving,house,family,Twitter / Musk
+2022-11-24,thanksgiving,twitter,family,thankful,pie,Twitter / Musk
+2022-11-25,trump,fuentes,ha,twitter,white,US Politics
+2022-11-26,trump,twitter,white,fuentes,state,Twitter / Musk
+2022-11-27,china,trump,twitter,covid,protests,China
+2022-11-28,trump,twitter,china,fuentes,white,Twitter / Musk
+2022-11-29,trump,biden,twitter,senate,house,Twitter / Musk
+2022-11-30,house,trump,china,twitter,biden,US Politics
+2022-12-01,trump,biden,state,kanye,president,US Politics
+2022-12-02,twitter,biden,trump,state,musk,Twitter / Musk
+2022-12-03,twitter,trump,biden,musk,media,Twitter / Musk
+2022-12-04,trump,twitter,biden,constitution,media,Twitter / Musk
+2022-12-05,trump,twitter,constitution,biden,case,Twitter / Musk
+2022-12-06,trump,warnock,walker,georgia,senate,US Politics
+2022-12-07,trump,state,senate,biden,election,US Politics
+2022-12-08,griner,twitter,biden,brittney,trump,Twitter / Musk
+2022-12-09,sinema,twitter,trump,party,independent,Twitter / Musk
+2022-12-10,twitter,morocco,trump,england,cup,Twitter / Musk
+2022-12-11,twitter,elonmusk,trump,musk,biden,Twitter / Musk
+2022-12-12,twitter,trump,musk,house,biden,Twitter / Musk
+2022-12-13,twitter,house,biden,trump,Fried,Twitter / Musk
+2022-12-14,twitter,house,biden,trump,state,Twitter / Musk
+2022-12-15,twitter,trump,elon,journalist,house,Twitter / Musk
+2022-12-16,twitter,trump,musk,journalist,ukraine,Twitter / Musk
+2022-12-17,twitter,trump,musk,journalist,ukraine,Twitter / Musk
+2022-12-18,twitter,trump,musk,journalist,ukraine,Twitter / Musk
+2022-12-18,twitter,trump,musk,journalist,ukraine,Twitter / Musk
+
+
